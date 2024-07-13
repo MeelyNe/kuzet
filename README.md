@@ -1,4 +1,3 @@
-```markdown
 # Scanner Service
 
 Scanner Service is a microservice designed to provide efficient scanning capabilities via gRPC. Built with Rust, it leverages the power of asynchronous programming to handle high throughput and low latency scanning operations.
@@ -25,7 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 ```bash
 git clone https://github.com/yourusername/scanner_service.git
 cd scanner_service
-```
 
 2. Build the project:
 
@@ -66,5 +64,3 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-```
-This README provides a basic template. You should customize the URLs, instructions, and descriptions according to your project's specifics.
